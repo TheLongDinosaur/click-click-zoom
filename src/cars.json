@@ -1,0 +1,62 @@
+[
+    {
+        "make": "track-ferrari",
+        "image": "https://images.pexels.com/photos/50704/car-race-ferrari-racing-car-pirelli-50704.jpeg?cs=srgb&dl=action-automobile-automotive-50704.jpg&fm=jpg"
+    },
+    {
+        "make": "lambo",
+        "image": "https://images.pexels.com/photos/39855/lamborghini-brno-racing-car-automobiles-39855.jpeg?cs=srgb&dl=auto-racing-automobiles-automotive-39855.jpg&fm=jpg"
+    },
+    {
+        "make": "ferrari",
+        "image": "https://images.pexels.com/photos/1085172/pexels-photo-1085172.jpeg?cs=srgb&dl=asphalt-automobile-automotive-1085172.jpg&fm=jpg"
+    },
+    {
+        "make": "mercedes",
+        "image": "https://images.pexels.com/photos/241316/pexels-photo-241316.jpeg?cs=srgb&dl=alloy-asphalt-auto-241316.jpg&fm=jpg"
+    },
+    {
+        "make": "alfa-romeo",
+        "image": "https://images.pexels.com/photos/210019/pexels-photo-210019.jpeg?cs=srgb&dl=action-asphalt-auto-210019.jpg&fm=jpg"
+    },
+    {
+        "make": "dodge",
+        "image": "https://images.pexels.com/photos/831475/pexels-photo-831475.jpeg?cs=srgb&dl=asphalt-auto-automobile-831475.jpg&fm=jpg"
+    },
+    {
+        "make": "porche",
+        "image": "https://images.pexels.com/photos/234438/pexels-photo-234438.jpeg?cs=srgb&dl=asphalt-auto-automobile-234438.jpg&fm=jpg"
+    },
+    {
+        "make": "ford",
+        "image": "https://images.pexels.com/photos/209644/pexels-photo-209644.jpeg?cs=srgb&dl=asphalt-auto-automobile-209644.jpg&fm=jpg"
+    },
+    {
+        "make": "mercedes-amgrear",
+        "image": "https://images.pexels.com/photos/112452/pexels-photo-112452.jpeg?cs=srgb&dl=automobile-automotive-benz-112452.jpg&fm=jpg"
+    },
+    {
+        "make": "ferrari-yellow",
+        "image": "https://images.pexels.com/photos/724493/pexels-photo-724493.jpeg?cs=srgb&dl=asphalt-automobile-automotive-724493.jpg&fm=jpg"
+    },
+    {
+        "make": "maserati",
+        "image": "https://images.pexels.com/photos/977003/pexels-photo-977003.jpeg?cs=srgb&dl=action-asphalt-auto-977003.jpg&fm=jpg"
+    },
+    {
+        "make": "ford-blackwhite",
+        "image": "https://images.pexels.com/photos/210143/pexels-photo-210143.jpeg?cs=srgb&dl=automobile-automotive-black-and-white-210143.jpg&fm=jpg"
+    },
+    {
+        "make": "pantera",
+        "image": "https://images.pexels.com/photos/627724/pexels-photo-627724.jpeg?cs=srgb&dl=action-asphalt-automobile-627724.jpg&fm=jpg"
+    },
+    {
+        "make": "audi",
+        "image": "https://images.pexels.com/photos/35876/audi-sports-car-r8-marlene.jpg?cs=srgb&dl=audi-auto-bitzer-35876.jpg&fm=jpg"
+    },
+    {
+        "make": "chevrolet",
+        "image": "https://images.pexels.com/photos/149812/pexels-photo-149812.jpeg?cs=srgb&dl=automotive-car-coupe-149812.jpg&fm=jpg"
+    }
+]
